@@ -21,5 +21,8 @@
   "homepage": "https://github.com/josh2100/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.4.3"
+  },
+  "dependencies": {
+    "babel-jest": "^27.4.2"
   }
 }
